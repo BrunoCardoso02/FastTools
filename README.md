@@ -7,6 +7,7 @@
 - Cadastro de ferramentas
 - Visualizar ferramentas
 - Listar ferramentas
+- Adcionar saldo
 - Visualizar saldo
 
 ---
